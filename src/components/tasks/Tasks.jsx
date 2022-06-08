@@ -14,7 +14,7 @@ function Task({ el, checkToDo, deleteToDo }) {
         </div>
         <div className="flex">
           <a href="#" className="item-author text-color">
-            Steven Hmpire
+            Samer Smati
           </a>
           <div className="item-except text-muted text-sm h-1x overflow-clip">{el.name}</div>
         </div>
